@@ -1,0 +1,15 @@
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\20200209_unit_test_gyudong.dll
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\20200209_unit_test_gyudong.pdb
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\MySql.Data.dll
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\Google.Protobuf.dll
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\Renci.SshNet.dll
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\bin\Debug\MySql.Data.xml
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\obj\Debug\20200209_unit_test_gyudong.csprojAssemblyReference.cache
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\obj\Debug\20200209_unit_test_gyudong.csproj.CopyComplete
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\obj\Debug\20200209_unit_test_gyudong.dll
+C:\Users\rbehd\source\repos\20200209_unit_test_gyudong\20200209_unit_test_gyudong\obj\Debug\20200209_unit_test_gyudong.pdb

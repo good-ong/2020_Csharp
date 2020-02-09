@@ -1,0 +1,9 @@
+C:\Users\rbehd\OneDrive\바탕 화면\포트폴리오\2020 C#\20200201_wcf_gyudong\20200201_wcf_gyudong\bin\Debug\20200201_wcf_gyudong.exe.config
+C:\Users\rbehd\OneDrive\바탕 화면\포트폴리오\2020 C#\20200201_wcf_gyudong\20200201_wcf_gyudong\bin\Debug\20200201_wcf_gyudong.exe
+C:\Users\rbehd\OneDrive\바탕 화면\포트폴리오\2020 C#\20200201_wcf_gyudong\20200201_wcf_gyudong\bin\Debug\20200201_wcf_gyudong.pdb
+C:\Users\rbehd\OneDrive\바탕 화면\포트폴리오\2020 C#\20200201_wcf_gyudong\20200201_wcf_gyudong\obj\Debug\_20200201_wcf_gyudong.Form1.resources
+C:\Users\rbehd\OneDrive\바탕 화면\포트폴리오\2020 C#\20200201_wcf_gyudong\20200201_wcf_gyudong\obj\Debug\_20200201_wcf_gyudong.Properties.Resources.resources
+C:\Users\rbehd\OneDrive\바탕 화면\포트폴리오\2020 C#\20200201_wcf_gyudong\20200201_wcf_gyudong\obj\Debug\20200201_wcf_gyudong.csproj.GenerateResource.cache
+C:\Users\rbehd\OneDrive\바탕 화면\포트폴리오\2020 C#\20200201_wcf_gyudong\20200201_wcf_gyudong\obj\Debug\20200201_wcf_gyudong.exe
+C:\Users\rbehd\OneDrive\바탕 화면\포트폴리오\2020 C#\20200201_wcf_gyudong\20200201_wcf_gyudong\obj\Debug\20200201_wcf_gyudong.pdb
+C:\Users\rbehd\OneDrive\바탕 화면\포트폴리오\2020 C#\20200201_wcf_gyudong\20200201_wcf_gyudong\obj\Debug\20200201_wcf_gyudong.csprojAssemblyReference.cache

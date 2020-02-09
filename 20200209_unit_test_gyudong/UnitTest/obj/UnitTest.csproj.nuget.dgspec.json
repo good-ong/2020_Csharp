@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rbehd\\source\\repos\\20200209_unit_test_gyudong\\UnitTest\\UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rbehd\\source\\repos\\20200209_unit_test_gyudong\\20200209_unit_test_gyudong\\20200209_unit_test_gyudong.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rbehd\\source\\repos\\20200209_unit_test_gyudong\\20200209_unit_test_gyudong\\20200209_unit_test_gyudong.csproj",
+        "projectName": "20200209_unit_test_gyudong",
+        "projectPath": "C:\\Users\\rbehd\\source\\repos\\20200209_unit_test_gyudong\\20200209_unit_test_gyudong\\20200209_unit_test_gyudong.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\rbehd\\source\\repos\\20200209_unit_test_gyudong\\UnitTest\\UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rbehd\\source\\repos\\20200209_unit_test_gyudong\\UnitTest\\UnitTest.csproj",
+        "projectName": "UnitTest",
+        "projectPath": "C:\\Users\\rbehd\\source\\repos\\20200209_unit_test_gyudong\\UnitTest\\UnitTest.csproj",
+        "packagesPath": "C:\\Users\\rbehd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rbehd\\source\\repos\\20200209_unit_test_gyudong\\UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rbehd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\rbehd\\source\\repos\\20200209_unit_test_gyudong\\20200209_unit_test_gyudong\\20200209_unit_test_gyudong.csproj": {
+                "projectPath": "C:\\Users\\rbehd\\source\\repos\\20200209_unit_test_gyudong\\20200209_unit_test_gyudong\\20200209_unit_test_gyudong.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

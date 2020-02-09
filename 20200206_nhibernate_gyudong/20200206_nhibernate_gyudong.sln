@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20200206_nhibernate_gyudong", "20200206_nhibernate_gyudong\20200206_nhibernate_gyudong.csproj", "{D66F1363-B131-4B83-879A-5B41630C28FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66F1363-B131-4B83-879A-5B41630C28FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66F1363-B131-4B83-879A-5B41630C28FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66F1363-B131-4B83-879A-5B41630C28FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66F1363-B131-4B83-879A-5B41630C28FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD54C971-F04D-461F-A136-58E9E83CBD54}
+	EndGlobalSection
+EndGlobal
